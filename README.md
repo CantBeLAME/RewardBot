@@ -5,7 +5,7 @@ The link to those respositories are here:
 - Front-end: https://github.com/CantBeLAME/rewardbot-frontend
 - Back-end: https://github.com/CantBeLAME/rewardbot-backend
 - If still confused take a look at this [video instruction](https://youtu.be/5rSMdHJL3co)
-- Also, so see what used case we implemented, you can see [this video](https://youtu.be/UpOokWNOGZI)
+- Also, to see what used case we implemented, you can see [this video](https://youtu.be/UpOokWNOGZI)
 
 
 They each have their own instructions on how to run them.
